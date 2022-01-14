@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color:rgb(196, 172, 172);
+  height: 100%;
+}
+
+button {
+  border-radius: 50%;
+  background-color:rgb(116, 7, 240);
+  color: white;
+}
+
+span {
+  color: rgb(116, 7, 240);
+}
+
+footer {
+  background-color:rgba(248, 248, 248, 0.322);
+  margin-top: 60%;
+  border-radius: 1%;
+}
+
+a {
+  text-decoration: none;
+  padding:3%;
+}
