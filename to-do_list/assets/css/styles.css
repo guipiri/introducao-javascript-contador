@@ -1,7 +1,7 @@
-/* div {
+div {
   text-align: left;
-} */
+}
 
-/* :checked + label {
+:checked + label {
   text-decoration: line-through;
-} */
+}
